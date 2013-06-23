@@ -165,7 +165,11 @@ Rozenblit, L., **Farach, F. J.**, Voccola, D., & Tirrell, C. (2013, May). Archit
 
 **Farach, F. J.** (2009, February). Effects of manipulated mood on the temporal allocation of attention to emotional information. Invited presentation to the Cognitive Psychology area of the Department of Psychology, Yale University, New Haven, CT. 
 
-**Farach, F. J.**, & Treat, T. A., & Chun, M. M., Jungé, J., & Johnson, M. K. (2008, November). Effects of manipulated state anxiety on the temporal allocation of attention to emotional information. Poster presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Orlando, FL. 
+**Farach, F. J.**, & Treat, T. A., & Chun, M. M., Jungé, J., & Johnson,
+ M. K. (2008, November). Mood manipulation and the temporal allocation
+of attention to emotional information. Poster presented at the annual
+meeting of the Association for Behavioral and Cognitive Therapy,
+Orlando, FL. http://dx.doi.org/10.6084/m9.figshare.729039
 
 **Farach, F. J.**, & Mennin, D. S. (2005, November). Pre-9/11 GAD and post-9/11 traumatic response among young adults exposed to the WTC attacks: The mediational role of negative emotional reactivity versus intolerance of uncertainty. Paper presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Washington, DC. 
 
