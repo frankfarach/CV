@@ -129,13 +129,13 @@ Zoellner, L. A., **Farach, F. J.**, Pruitt, L. D., & Feeny, N. C. (in press). Th
 
 Kinrys, G., Simon, N. M., **Farach, F. J.**, & Pollack, M. H. (2004). In: J. E. Alpert and M. Fava (Eds.), Handbook of chronic depression: Diagnosis and therapeutic management (pp. 348-380). Management of antidepressant-induced side effects. New York: Marcel Dekker.
 
-### Manuscripts & Preprints
+### Manuscripts & Pkreprints
 
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
 Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Veer, A. V. (under review). The replication recipe: What makes for a
-convincing replication? Manuscript submitted for publication. Preprint:
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
+Van 't Veer, A. (2013, under review). The replication recipe: What makes
+for a convincing replication? Manuscript submitted for publication.
+Preprint deposited June 23, 2013: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
 
 **Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé, J. (2013, under review). Effects of induced and naturalistic mood on the temporal allocation of attention to emotional information. Manuscript submitted for publication.
 
