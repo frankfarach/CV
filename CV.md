@@ -78,13 +78,6 @@ Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
 
-
-Open Science Collaboration. (2013, invited submission). The
-Reproducibility Project: A model of large-scale collaboration for
-empirical research on reproducibility. In V. Stodden, F. Leisch, & R.
-Peng (Eds.), *Implementing Reproducible Computational Research (A Volume
-in The R Series).*  New York, NY: Taylor & Francis.
-
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological science.
 *Perspectives on Psychological Science*, *7*, 657-660. http://dx.doi.org/10.1177/1745691612462588.
@@ -126,6 +119,12 @@ cognitive-behavioral approach for treatment-resistant drug dependence.
 *Journal of Substance Abuse Treatment*, *23*, 335-342. http://dx.doi.org/10.1016/S0740-5472(02)00298-2.
 
 ### Book Chapters
+
+Open Science Collaboration. (2013, invited submission). The
+Reproducibility Project: A model of large-scale collaboration for
+empirical research on reproducibility. In V. Stodden, F. Leisch, & R.
+Peng (Eds.), *Implementing Reproducible Computational Research (A Volume
+in The R Series).*  New York, NY: Taylor & Francis.
 
 Zoellner, L. A., **Farach, F. J.**, Pruitt, L. D., & Feeny, N. C. (in
 press). The nature of traumatic memory and traumatic recovery. In: L. A.
