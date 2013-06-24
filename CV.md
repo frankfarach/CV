@@ -223,6 +223,11 @@ Role: Co-Investigator
 
 ## Teaching
 
+*Guest Lecturer*, Psychological Assessment Training Workshop, University
+ of Washington   
+Topic: "Orientation to the SCID-I for DSM-IV"  
+http://dx.doi.org/10.6084/m9.figshare.729082
+
 *Guest Lecturer*, Behavior Disorders (graduate-level), University of Washington  
 Topic: "Personality Disorders" (2012)
 
