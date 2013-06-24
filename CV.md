@@ -222,10 +222,10 @@ Role: Co-Investigator
 
 ## Teaching
 
-*Guest Lecturer*, Behavior Disorders (graduate-level), University of Washington
+*Guest Lecturer*, Behavior Disorders (graduate-level), University of Washington  
 Topic: "Personality Disorders" (2012)
 
-*Guest Lecturer*, Anxiety Disorders (graduate-level), University of Washington
+*Guest Lecturer*, Anxiety Disorders (graduate-level), University of Washington  
 Topic:  "Innovations, Controversies, and New Theoretical Perspectives" (2011)
 
 *Co-leader and developer* of two-day clinical workshop on Prolonged Exposure Therapy for PTSD
@@ -254,7 +254,7 @@ PTSD (5R34MH087475) and Optimizing PTSD Treatments (5R01MH066347) (2010-2012)
 University of Washington Center for Anxiety and Traumatic Stress, Seattle, WA
 
 Predoctoral Psychology Intern (2009-2010)  
-Greater Hartford Predoctoral Clinical Psychology Internship Consortium
+Greater Hartford Predoctoral Clinical Psychology Internship Consortium  
 Newington Veterans Affairs Medical Center, Newington, CT 
 
 Adult Psychiatry Intensive Outpatient Program (2008-2009)  
@@ -271,13 +271,16 @@ Department of Psychology, Yale University
 
 ## Professional and Community Service
 
-### Memberships in Professional Associations
+### Memberships in and Service to Professional Associations
 
 - Anxiety and Depression Association of America
 - Association for Behavioral and Cognitive Therapies 
+    - Assistant to Program Chair (2002)
 - Association for Psychological Science 
 - Organization for Human Brain Mapping
 - Society for a Science of Clinical Psychology
+    - Webmaster (2009-Present)
+    - Student Representative (2008-2010)
 
 ### Certifications
 
