@@ -77,6 +77,7 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
+http://dx.doi.org/10.1002/da.22133
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological science.
