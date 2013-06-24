@@ -176,11 +176,11 @@ Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Ge
 
 Hawthorne, J., Voccola, D., Sinanis, N., **Farach, F. J.**, & Rozenblit, L. (2013, May). Integrated data management processes for autism research: Empowering efficient data reuse and sharing across multiple studies, data types, and sites. Poster presented at the annual conference of the International Meeting for Autism Research. 
 
-Rozenblit, L., **Farach, F. J.**, Voccola, D., & Tirrell, C. (2013, May). Architecting an open-source Research Exchange Database (RexDB): How to design a system that supports integrated data management for multidisciplinary autism research. Poster to be presented at the annual conference of the International Meeting for Autism Research.
+Rozenblit, L., **Farach, F. J.**, Voccola, D., & Tirrell, C. (2013, May). Architecting an open-source Research Exchange Database (RexDB): How to design a system that supports integrated data management for multidisciplinary autism research. Poster presented at the annual conference of the International Meeting for Autism Research.
 
-**Farach, F. J.**, McGettrick, O., Golovko, O., Sinanis, N., & Rozenblit, L. (2013, April). HTRAF and HTSQL: New open-source tools enabling the rapid development of data-driven web dashboards for clinical research and staff. Poster to be presented at the annual conference of the Anxiety and Depression Association of America.
+**Farach, F. J.**, McGettrick, O., Golovko, O., Sinanis, N., & Rozenblit, L. (2013, April). HTRAF and HTSQL: New open-source tools enabling the rapid development of data-driven web dashboards for clinical research and staff. Poster presented at the annual conference of the Anxiety and Depression Association of America.
 
-**Farach, F. J.**, Tirrell, C., Hawthorne, J., & Rozenblit, L. (2013, April). Extending an open-source integrated data management system to clinical anxiety disorders research: A preliminary needs assessment. Poster to be presented at the annual conference of the Anxiety and Depression Association of America.
+**Farach, F. J.**, Tirrell, C., Hawthorne, J., & Rozenblit, L. (2013, April). Extending an open-source integrated data management system to clinical anxiety disorders research: A preliminary needs assessment. Poster presented at the annual conference of the Anxiety and Depression Association of America.
 
 **Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2011, November). Anxiety sensitivity subscales and PTSD symptom clusters: Cross-sectional relations and treatment effects. In F. J. Farach (Chair), Anxiety sensitivity in posttraumatic stress disorder: Specificity, incremental validity, and treatment. Conference paper and symposium presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Toronto, Canada.
 
