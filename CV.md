@@ -74,10 +74,6 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and underlying processes. Depression and Anxiety.
-
-Open Science Collaboration. (2013, invited submission).  The Reproducibility Project: A model of large-scale collaboration for empirical research on reproducibility. In V. Stodden, F. Leisch, & R. Peng (Eds.), Implementing Reproducible Computational Research (A Volume in The R Series).  New York, NY: Taylor & Francis.
-
 Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
@@ -153,12 +149,12 @@ Diagnosis and therapeutic management (pp. 348-380).* Management of antidepressan
 
 Stasik, S., Brock, R. L., **Farach, F. J.**, Benoit, K., & Wilson, K.
 (2013). The predoctoral internship crisis: Results from the revised internship
-survey. **Clinical Science**, **16**, 15-20.
+survey. *Clinical Science*, *16*, 15-20.
 
 Brock, R. L., Wilson, K., **Farach, F. J.** (2010). The predoctoral
 internship crisis: Examining views of the psychology community and
-identifying possible solutions. **Clinical Science**,
-**13**, 14-18.
+identifying possible solutions. *Clinical Science*,
+*13*, 14-18.
 
 ### Manuscripts & Preprints
 
