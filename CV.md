@@ -75,8 +75,8 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 ### Journal Articles
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
-press). *Utilizing an ability-based measure to detect emotion regulation
-deficits in generalized anxiety disorder.* *Journal of Psychopathology
+press). Utilizing an ability-based measure to detect emotion regulation
+deficits in generalized anxiety disorder. *Journal of Psychopathology
 and Behavioral Assessment.*
  
 Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
