@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-06-23
+*Last updated:* 2013-07-09
 
 ## Contact
 
@@ -86,7 +86,8 @@ http://dx.doi.org/10.1002/da.22133
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological science.
-*Perspectives on Psychological Science*, *7*, 657-660. http://dx.doi.org/10.1177/1745691612462588.
+*Perspectives on Psychological Science*, *7*, 657-660.
+ http://dx.doi.org/10.1177/1745691612462588.
 
 **Farach, F. J.**, Pruitt, L. D., Jun, J. J., Jerud, A. B.,  Zoellner,
  L. A., & Roy-Byrne, P. (2012). Pharmacological treatment of anxiety
@@ -148,6 +149,17 @@ following traumatic events.* New York: Guilford Press.
 Kinrys, G., Simon, N. M., **Farach, F. J.**, & Pollack, M. H. (2004).
 In: J. E. Alpert and M. Fava (Eds.), *Handbook of chronic depression:
 Diagnosis and therapeutic management (pp. 348-380).* Management of antidepressant-induced side effects. New York: Marcel Dekker.
+
+### Newsletter Articles
+
+Stasik, S., Brock, R. L., **Farach, F. J.**, Benoit, K., & Wilson, K.
+(2013). The predoctoral internship crisis: Results from the revised internship
+survey. *Clinical Science*, *16*, 15-20.
+
+Brock, R. L., Wilson, K., **Farach, F. J.** (2010). The predoctoral
+internship crisis: Examining views of the psychology community and
+identifying possible solutions. *Clinical Science*,
+*13*, 14-18.
 
 ### Manuscripts & Preprints
 
