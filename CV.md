@@ -74,6 +74,11 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
+press). *Utilizing an ability-based measure to detect emotion regulation
+deficits in generalized anxiety disorder.* *Journal of Psychopathology
+and Behavioral Assessment.*
+ 
 Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
@@ -155,10 +160,6 @@ Preprint deposited June 23, 2013: http://papers.ssrn.com/sol3/papers.cfm?abstrac
 **Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé,
  J. (2013, under review). *Effects of induced and naturalistic mood on
 the temporal allocation of attention to emotional information.* Manuscript submitted for publication.
-
-Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (2012,
-under review). *Utilizing an ability-based measure to detect emotion
-regulation deficits in generalized anxiety disorder.* Manuscript submitted for publication.
 
 **Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013, in
  prep). *Changes in anxiety sensitivity associated with prolonged
