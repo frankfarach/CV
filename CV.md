@@ -165,21 +165,25 @@ identifying possible solutions. *Clinical Science*,
 
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
 Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Van 't Veer, A. (2013, under review). *The replication recipe: What makes
-for a convincing replication?* Manuscript submitted for publication.
-Preprint deposited June 23, 2013: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
+Van 't Veer, A. (2013). *The replication recipe: What makes for a
+convincing replication?* Manuscript submitted for publication.  Preprint
+deposited June 23, 2013:
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
 
 **Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé,
- J. (2013, under review). *Effects of induced and naturalistic mood on
-the temporal allocation of attention to emotional information.* Manuscript submitted for publication.
+J. (2013). *Effects of induced and naturalistic mood on the temporal
+allocation of attention to emotional information.* Manuscript submitted
+for publication.
 
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013, under review). *Changes in anxiety sensitivity associated with prolonged
-exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript under review. 
+**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).
+*Changes in anxiety sensitivity associated with prolonged exposure
+therapy and sertraline for posttraumatic stress disorder.* Manuscript
+submitted for publication.
 
 **Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.
- C. (2013, in prep). *Prior trauma frequency does not predict
-between-session habituation of fear in prolonged exposure therapy for
-PTSD.* Manuscript in preparation.
+C. (2013). *Prior trauma frequency does not predict between-session
+habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
+in preparation.
 
 ## Presentations
 
