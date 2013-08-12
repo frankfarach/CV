@@ -173,9 +173,8 @@ Preprint deposited June 23, 2013: http://papers.ssrn.com/sol3/papers.cfm?abstrac
  J. (2013, under review). *Effects of induced and naturalistic mood on
 the temporal allocation of attention to emotional information.* Manuscript submitted for publication.
 
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013, in
- prep). *Changes in anxiety sensitivity associated with prolonged
-exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript in preparation.
+**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013, under review). *Changes in anxiety sensitivity associated with prolonged
+exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript under review. 
 
 **Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.
  C. (2013, in prep). *Prior trauma frequency does not predict
