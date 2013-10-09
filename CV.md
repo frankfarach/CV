@@ -1,10 +1,10 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-07-29
+*Last updated:* 2013-10-08
 
 ## Contact
 
-**Email:** my last name [at] u [dot] washington [dot] edu
+**Email:** my first name [at] farach [dot] gmail [dot] com
 
 **Snail Mail:**  
 University of Washington  
