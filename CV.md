@@ -74,6 +74,12 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
+Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
+Van 't Veer, A. (2013). *The replication recipe: What makes for a
+convincing replication?* Manuscript submitted for publication.
+Preprint: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
+
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
 press). Utilizing an ability-based measure to detect emotion regulation
 deficits in generalized anxiety disorder. *Journal of Psychopathology
@@ -162,13 +168,6 @@ identifying possible solutions. *Clinical Science*,
 *13*, 14-18.
 
 ### Manuscripts & Preprints
-
-Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
-Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Van 't Veer, A. (2013). *The replication recipe: What makes for a
-convincing replication?* Manuscript submitted for publication.  Preprint
-deposited June 23, 2013:
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
 
 **Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé,
 J. (2013). *Effects of induced and naturalistic mood on the temporal
