@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-10-08
+*Last updated:* 2013-10-14
 
 ## Contact
 
@@ -77,7 +77,7 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
 Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
 Van 't Veer, A. (2013). *The replication recipe: What makes for a
-convincing replication?* Manuscript submitted for publication.
+convincing replication?* *Journal of Experimental Social Psychology*
 Preprint: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
