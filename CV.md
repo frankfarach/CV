@@ -76,8 +76,8 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
 Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Van 't Veer, A. (2013). *The replication recipe: What makes for a
-convincing replication?* *Journal of Experimental Social Psychology*
+Van 't Veer, A. (in press). *The replication recipe: What makes for a
+convincing replication?* *Journal of Experimental Social Psychology*.
 Preprint: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
