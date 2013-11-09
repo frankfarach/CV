@@ -74,12 +74,6 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
-Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Van 't Veer, A. (in press). *The replication recipe: What makes for a
-convincing replication?* *Journal of Experimental Social Psychology*.
-Preprint: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
-
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
 press). Utilizing an ability-based measure to detect emotion regulation
 deficits in generalized anxiety disorder. *Journal of Psychopathology
@@ -89,6 +83,12 @@ Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
 http://dx.doi.org/10.1002/da.22133
+
+Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**, Geller,
+J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., &
+Van 't Veer, A. (2013). The Replication Recipe: What Makes for a
+Convincing Replication?. *Journal of Experimental Social Psychology*, *50*,
+217-224.
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological science.
