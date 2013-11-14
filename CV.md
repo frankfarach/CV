@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-10-14
+*Last updated:* 2013-11-13
 
 ## Contact
 
@@ -73,6 +73,10 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 ## Publications
 
 ### Journal Articles
+
+**Farach, F. J.**, Treat, T. A., & Jungé, J. A. (in press). Effects of
+induced and naturalistic mood on the temporal allocation of attention to
+emotional information. *Cognition and Emotion.*
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
 press). Utilizing an ability-based measure to detect emotion regulation
@@ -168,11 +172,6 @@ identifying possible solutions. *Clinical Science*,
 *13*, 14-18.
 
 ### Manuscripts & Preprints
-
-**Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé,
-J. (2013). *Effects of induced and naturalistic mood on the temporal
-allocation of attention to emotional information.* Manuscript submitted
-for publication.
 
 **Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).
 *Changes in anxiety sensitivity associated with prolonged exposure
