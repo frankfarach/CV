@@ -1,10 +1,10 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-07-29
+*Last updated:* 2013-11-13
 
 ## Contact
 
-**Email:** my last name [at] u [dot] washington [dot] edu
+**Email:** my first name [at] farach [dot] gmail [dot] com
 
 **Snail Mail:**  
 University of Washington  
@@ -74,6 +74,10 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+**Farach, F. J.**, Treat, T. A., & Jungé, J. A. (in press). Effects of
+induced and naturalistic mood on the temporal allocation of attention to
+emotional information. *Cognition and Emotion.*
+
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
 press). Utilizing an ability-based measure to detect emotion regulation
 deficits in generalized anxiety disorder. *Journal of Psychopathology
@@ -83,6 +87,12 @@ Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
 press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
 underlying processes. *Depression and Anxiety.*
 http://dx.doi.org/10.1002/da.22133
+
+Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**, Geller,
+J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., &
+Van 't Veer, A. (2013). The Replication Recipe: What Makes for a
+Convincing Replication?. *Journal of Experimental Social Psychology*, *50*,
+217-224.
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
 effort to estimate the reproducibility of psychological science.
@@ -162,24 +172,15 @@ identifying possible solutions. *Clinical Science*,
 
 ### Manuscripts & Preprints
 
-Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**,
-Geller, J., Giner-Sorolla, R., Grange, J. A., Perugini, M., Spies, J., &
-Van 't Veer, A. (2013, under review). *The replication recipe: What makes
-for a convincing replication?* Manuscript submitted for publication.
-Preprint deposited June 23, 2013: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2283856
-
-**Farach, F. J.**, Treat, T. A., Chun, M. M., Johnson, M. K., & Jungé,
- J. (2013, under review). *Effects of induced and naturalistic mood on
-the temporal allocation of attention to emotional information.* Manuscript submitted for publication.
-
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013, in
- prep). *Changes in anxiety sensitivity associated with prolonged
-exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript in preparation.
+**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).
+*Changes in anxiety sensitivity associated with prolonged exposure
+therapy and sertraline for posttraumatic stress disorder.* Manuscript
+submitted for publication.
 
 **Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.
- C. (2013, in prep). *Prior trauma frequency does not predict
-between-session habituation of fear in prolonged exposure therapy for
-PTSD.* Manuscript in preparation.
+C. (2013). *Prior trauma frequency does not predict between-session
+habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
+in preparation.
 
 ## Presentations
 
