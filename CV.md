@@ -127,16 +127,15 @@ cognitive-behavioral approach for treatment-resistant drug dependence.
 
 ### Book Chapters
 
+Zoellner, L. A., **Farach, F. J.**, Pruitt, L. D., & Feeny, N. C. (2014). The nature of traumatic memory and traumatic recovery. In: L. A.
+Zoellner and N. C. Feeny (Eds.), *Facilitating resilience and recovery
+following traumatic events (pp. 137-166).* New York: Guilford Press.
+
 Open Science Collaboration. (2013, invited submission). The
 Reproducibility Project: A model of large-scale collaboration for
 empirical research on reproducibility. In V. Stodden, F. Leisch, & R.
 Peng (Eds.), *Implementing Reproducible Computational Research (A Volume
 in The R Series).*  New York, NY: Taylor & Francis.
-
-Zoellner, L. A., **Farach, F. J.**, Pruitt, L. D., & Feeny, N. C. (in
-press). The nature of traumatic memory and traumatic recovery. In: L. A.
-Zoellner and N. C. Feeny (Eds.), *Facilitating resilience and recovery
-following traumatic events.* New York: Guilford Press.
 
 **Farach, F. J.**, & Mennin, D. S. (2007). Emotion-based approaches to
  the anxiety disorders. In: J. Rottenberg and S. L. Johnson (Eds.),
