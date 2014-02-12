@@ -1,16 +1,15 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2013-11-13
+*Last updated:* 2014-02-11
 
 ## Contact
 
 **Email:** my first name [at] farach [dot] gmail [dot] com
 
 **Snail Mail:**  
-University of Washington  
-Department of Psychology  
-Guthrie Hall, Box 351525  
-Seattle, WA 98195-1525
+Prometheus Research, LLC
+55 Church Street, 7th Floor
+New Haven, CT 06510
 
 ## Education
 
@@ -49,10 +48,10 @@ University (2005)
 
 ## Professional Positions
 
+**Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-Present)
+
 **Research Scientist**, Center for Anxiety and Traumatic Stress (2012-Present)  
 Department of Psychology, University of Washington, Seattle, WA
-
-**Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-Present)
 
 **Postdoctoral Research Associate**, Center for Anxiety and Traumatic Stress (2010-2012)  
 Department of Psychology, University of Washington, Seattle, WA
@@ -222,11 +221,20 @@ Otto, M. W., **Farach, F. J.**, & Pollack, M. H. (2003, November). Negative affe
 
 ## Grant Funding
 
-R43 MH099826-01	Rozenblit (PI)		
+R43 MH102900-01 Rozenblit (PI)
+01/03/14-12/31/15
+*Extending an Open-Source Integrated Data Management Platform to Anxiety
+Disorders*
+The project involves the development of free (open-source) software that can
+easily integrate various kinds of data from different studies to meet
+the data management needs of anxiety disorders researchers.
+Role: Co-Investigator
+
+R43 MH099826-02 Rozenblit (PI)		
 12/13/12-11/30/14  
 *A Model Integrated Data Management System for Multi-Disciplinary Autism Research*  
-This project will empower autism investigators to make more effective use of interdisciplinary research data they collect, and to more efficiently exchange data with the scientific community. We will achieve this goal by creating free (open-source) software that can easily integrate various kinds of data from different studies; no such software currently exists. This software will allow researchers to optimize their use of scarce research dollars, and will help accelerate progress in understanding autism and other mental disorders.  
-Role: Project Lead
+This project will empower autism investigators to make more effective use of interdisciplinary research data they collect, and to more efficiently exchange data with the scientific community.
+Role: Project Lead 
 
 R01 MH066347-08S1	Zoellner (PI)		
 07/19/12-05/31/13   
