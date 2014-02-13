@@ -1,14 +1,14 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-02-11
+*Last updated:* 2014-02-12
 
 ## Contact
 
 **Email:** my first name [at] farach [dot] gmail [dot] com
 
 **Snail Mail:**  
-Prometheus Research, LLC
-55 Church Street, 7th Floor
+Prometheus Research, LLC  
+55 Church Street, 7th Floor  
 New Haven, CT 06510
 
 ## Education
