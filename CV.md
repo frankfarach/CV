@@ -82,10 +82,9 @@ press). Utilizing an ability-based measure to detect emotion regulation
 deficits in generalized anxiety disorder. *Journal of Psychopathology
 and Behavioral Assessment.*
  
-Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (in
-press). Fear, distress, and dysphoria in PTSD: Symptoms, theory, and
-underlying processes. *Depression and Anxiety.*
-http://dx.doi.org/10.1002/da.22133
+Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (2014).
+Understanding heterogeneity in PTSD: Fear, dysphoria, and distress.
+*Depression and Anxiety*, *31*, 97-106. http://dx.doi.org/10.1002/da.22133
 
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**, Geller,
 J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., &
