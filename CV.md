@@ -232,7 +232,7 @@ Role: Co-Investigator
 R43 MH099826-02 Rozenblit (PI)		
 12/13/12-11/30/14  
 *A Model Integrated Data Management System for Multi-Disciplinary Autism Research*  
-This project will empower autism investigators to make more effective use of interdisciplinary research data they collect, and to more efficiently exchange data with the scientific community.
+This project will empower autism investigators to make more effective use of interdisciplinary research data they collect, and to more efficiently exchange data with the scientific community.  
 Role: Project Lead 
 
 R01 MH066347-08S1	Zoellner (PI)		
