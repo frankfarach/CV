@@ -220,13 +220,13 @@ Otto, M. W., **Farach, F. J.**, & Pollack, M. H. (2003, November). Negative affe
 
 ## Grant Funding
 
-R43 MH102900-01 Rozenblit (PI)
-01/03/14-12/31/15
+R43 MH102900-01 Rozenblit (PI)  
+01/03/14-12/31/15  
 *Extending an Open-Source Integrated Data Management Platform to Anxiety
-Disorders*
+Disorders*  
 The project involves the development of free (open-source) software that can
 easily integrate various kinds of data from different studies to meet
-the data management needs of anxiety disorders researchers.
+the data management needs of anxiety disorders researchers.  
 Role: Co-Investigator
 
 R43 MH099826-02 Rozenblit (PI)		
