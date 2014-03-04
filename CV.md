@@ -75,12 +75,13 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 **Farach, F. J.**, Treat, T. A., & Jungé, J. A. (in press). Effects of
 induced and naturalistic mood on the temporal allocation of attention to
-emotional information. *Cognition and Emotion.*
+emotional information. *Cognition and Emotion*. 
 
-Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (in
-press). Utilizing an ability-based measure to detect emotion regulation
-deficits in generalized anxiety disorder. *Journal of Psychopathology
-and Behavioral Assessment.*
+Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (2014).
+Utilizing an ability-based measure to detect emotion regulation deficits
+in generalized anxiety disorder. *Journal of Psychopathology and
+Behavioral Assessment*, *36*, 115-223.
+http://dx.doi.org/10.1007/s10862-013-9372-3
  
 Zoellner, L. A., Pruitt, L. D., **Farach, F. J.**, & Jun, J. J. (2014).
 Understanding heterogeneity in PTSD: Fear, dysphoria, and distress.
