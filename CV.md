@@ -89,8 +89,8 @@ Understanding heterogeneity in PTSD: Fear, dysphoria, and distress.
 
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**, Geller,
 J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., &
-Van 't Veer, A. (2013). The Replication Recipe: What Makes for a
-Convincing Replication?. *Journal of Experimental Social Psychology*, *50*,
+Van 't Veer, A. (2013). The replication recipe: What makes for a
+convincing replication?. *Journal of Experimental Social Psychology*, *50*,
 217-224.
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
@@ -182,6 +182,9 @@ habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
 in preparation.
 
 ## Presentations
+
+Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (April, 2014).  RexInstrument: Exploring an open-source standard for onfiguring clinical research instruments. Talk presented at the annual Join Summit meeting
+of the American Medical Informatics Association.
 
 Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M. (July, 2013). Advancing replicability and theory through replication recipes and replication packages. Talk presented at the small group meeting Efficient Science: Methodological Controversies in J/DM Research, Bonn, Germany
 
