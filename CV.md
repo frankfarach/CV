@@ -171,7 +171,7 @@ identifying possible solutions. *Clinical Science*,
 **Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.  C. (2013). *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
 in preparation.
 
-**Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript in preparation.
+Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript in preparation.
 
 ## Presentations
 
