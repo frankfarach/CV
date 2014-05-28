@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-04-09
+*Last updated:* 2014-05-28
 
 ## Contact
 
@@ -13,18 +13,13 @@ New Haven, CT 06510
 
 ## Education
 
-Ph.D., Clinical Psychology (2010).
-Yale University, New Haven, CT.
-*Advisor:* Teresa A. Treat
+Ph.D., Clinical Psychology (2010). Yale University, New Haven, CT.
 
 M.Phil., Clinical Psychology. (2007). Yale University, New Haven, CT.
-*Advisor:* Douglas S. Mennin
 
 M.S., Clinical Psychology. (2005). Yale University, New Haven, CT.
-*Advisor:* Douglas S. Mennin
 
 A.B., Psychology *(magna cum laude)*. (2001). Harvard University, Cambridge, MA.
-*Advisor:* Richard J. McNally
 
 ## Honors and Awards
 
@@ -50,7 +45,7 @@ University (2005)
 
 **Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-Present)
 
-**Research Scientist**, Center for Anxiety and Traumatic Stress (2012-Present)  
+**Research Scientist**, Center for Anxiety and Traumatic Stress (2012-2013)  
 Department of Psychology, University of Washington, Seattle, WA
 
 **Postdoctoral Research Associate**, Center for Anxiety and Traumatic Stress (2010-2012)  
@@ -171,20 +166,16 @@ identifying possible solutions. *Clinical Science*,
 
 ### Manuscripts & Preprints
 
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).
-*Changes in anxiety sensitivity associated with prolonged exposure
-therapy and sertraline for posttraumatic stress disorder.* Manuscript
-submitted for publication.
+**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).  *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript submitted for publication.
 
-**Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.
-C. (2013). *Prior trauma frequency does not predict between-session
-habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
+**Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.  C. (2013). *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
 in preparation.
+
+**Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript in preparation.
 
 ## Presentations
 
-Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (April, 2014).  RexInstrument: Exploring an open-source standard for onfiguring clinical research instruments. Talk presented at the annual Join Summit meeting
-of the American Medical Informatics Association.
+Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (April, 2014).  RexInstrument: Exploring an open-source standard for configuring clinical research instruments. Talk presented at the annual Join Summit meeting of the American Medical Informatics Association.
 
 Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M. (July, 2013). Advancing replicability and theory through replication recipes and replication packages. Talk presented at the small group meeting Efficient Science: Methodological Controversies in J/DM Research, Bonn, Germany
 
