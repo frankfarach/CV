@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-05-28
+*Last updated:* 2014-08-17
 
 ## Contact
 
@@ -10,6 +10,8 @@
 Prometheus Research, LLC  
 55 Church Street, 7th Floor  
 New Haven, CT 06510
+
+**ORCID: 0000-0002-2145-0145**
 
 ## Education
 
