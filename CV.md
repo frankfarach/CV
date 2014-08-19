@@ -296,13 +296,12 @@ Department of Psychology, Yale University
 
 ### Memberships in and Service to Professional Associations
 
-- Anxiety and Depression Association of America
+- American Medical Informatics Association
 - Association for Behavioral and Cognitive Therapies 
     - Assistant to Program Chair (2002)
-- Association for Psychological Science 
-- Organization for Human Brain Mapping
+- National Association for Healthcare Quality
 - Society for a Science of Clinical Psychology
-    - Webmaster (2009-Present)
+    - Webmaster (2009-2014)
     - Student Representative (2008-2010)
 
 ### Certifications
