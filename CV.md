@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-08-17
+*Last updated:* 2014-11-17
 
 ## Contact
 
@@ -168,12 +168,14 @@ identifying possible solutions. *Clinical Science*,
 
 ### Manuscripts & Preprints
 
+Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2014). *Data management in clinical research: What we want, what we need, what
+we can afford.* Manuscript submitted for publication.
+
 **Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).  *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript submitted for publication.
 
-**Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.  C. (2013). *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript
-in preparation.
+Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript submitted for publication.
 
-Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript in preparation.
+**Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.  C. (2013). *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript in preparation.
 
 ## Presentations
 
