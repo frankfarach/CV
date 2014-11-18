@@ -179,9 +179,13 @@ Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (
 
 ## Presentations
 
-Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (April, 2014).  RexInstrument: Exploring an open-source standard for configuring clinical research instruments. Talk presented at the annual Join Summit meeting of the American Medical Informatics Association.
+**Farach, F. J.**, McGettrick, O., Tirrell, C., Evans, C., Mesa, A., & Rozenblit, L. (2014, November). RexMart: An open source tool for exploring and sharing research data without compromising data integrity. Talk presented at the annual symposium of the American Medical Informatics Association.
 
-Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M. (July, 2013). Advancing replicability and theory through replication recipes and replication packages. Talk presented at the small group meeting Efficient Science: Methodological Controversies in J/DM Research, Bonn, Germany
+Tirrell, C., **Farach, F. J.**, Yourd, M., McGettrick, O., Golovko, O., & Rozenblit, L. (2014, November). An open source, integrated data management system for medical registries: A case study using RexDB. Talk presented at the annual symposium of the American Medical Informatics Association.
+
+Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (2014, April).  RexInstrument: Exploring an open-source standard for configuring clinical research instruments. Talk presented at the annual Join Summit meeting of the American Medical Informatics Association.
+
+Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M. (2013, July). Advancing replicability and theory through replication recipes and replication packages. Talk presented at the small group meeting Efficient Science: Methodological Controversies in J/DM Research, Bonn, Germany
 
 **Farach, F. J.**, Rozenblit, L., & Hawthorne, J. (2013, May). Improving research efficiency, data quality, and data reuse through integrated data management. In L. Rozenblit (Chair), Improving psychological science through best practices in data management. Talk presented at the annual conference of the Association for Psychological Science.
 
