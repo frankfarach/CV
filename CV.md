@@ -179,6 +179,17 @@ Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (
 
 ## Presentations
 
+**Farach, F. J.**, McGettrick, O., Mesa, A., & Rozenblit, L. (2015,
+April). RexMart: Empowering analysts to configure research data marts to
+improve end-user data exploration. Talk to be presented at the annual
+Joint Summit meeting of the American Medical Informatics Association.
+
+Tirrell, C., Simeone, J., **Farach, F. J.**, & Rozenblit, L. (2015,
+April). Developing a suite of electronic data capture applications based
+on an open-source instrument definition standard. Talk to be presented
+at the annual Joint Summit meeting of the American Medical Informatics
+Association.
+
 **Farach, F. J.**, McGettrick, O., Tirrell, C., Evans, C., Mesa, A., & Rozenblit, L. (2014, November). RexMart: An open source tool for exploring and sharing research data without compromising data integrity. Talk presented at the annual symposium of the American Medical Informatics Association.
 
 Tirrell, C., **Farach, F. J.**, Yourd, M., McGettrick, O., Golovko, O., & Rozenblit, L. (2014, November). An open source, integrated data management system for medical registries: A case study using RexDB. Talk presented at the annual symposium of the American Medical Informatics Association.
