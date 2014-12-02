@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-11-17
+*Last updated:* 2014-12-01
 
 ## Contact
 
