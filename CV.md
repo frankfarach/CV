@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2014-12-01
+*Last updated:* 2015-03-18
 
 ## Contact
 
@@ -45,6 +45,8 @@ University (2005)
 
 ## Professional Positions
 
+**Director of Program Management**, Prometheus Research, LLC, New Haven, CT (2015-Present)
+
 **Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-Present)
 
 **Research Scientist**, Center for Anxiety and Traumatic Stress (2012-2013)  
@@ -70,9 +72,10 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-**Farach, F. J.**, Treat, T. A., & Jungé, J. A. (in press). Effects of
+**Farach, F. J.**, Treat, T. A., & Jungé, J. A. (2014). Effects of
 induced and naturalistic mood on the temporal allocation of attention to
-emotional information. *Cognition and Emotion*. 
+emotional information. *Cognition and Emotion*, *28*, 993-1011.
+http://http://dx.doi.org/10.1080/02699931.2013.866937 
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (2014).
 Utilizing an ability-based measure to detect emotion regulation deficits
@@ -168,20 +171,26 @@ identifying possible solutions. *Clinical Science*,
 
 ### Manuscripts & Preprints
 
-Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2014). *Data management in clinical research: What we want, what we need, what
+Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. *Data management in clinical research: What we want, what we need, what
 we can afford.* Manuscript submitted for publication.
 
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2013).  *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript submitted for publication.
+Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript submitted for publication.
 
-Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. (2014). *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript submitted for publication.
+Jun, J. J., **Farach, F. J.**, Zoellner, L. A., & Feeny, N. C. *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript in preparation.
 
-**Farach, F. J.**, Jerud, A. B., Smith, H., Zoellner, L. A., & Feeny, N.  C. (2013). *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript in preparation.
+Jerud, A. B., **Farach, F. J.**, Smith, H., Zoellner, L. A., & Feeny, N. C. *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript in preparation.
 
 ## Presentations
 
+Rozenblit, L., & **Farach, F. J.** (2015, April). Supporting
+heterogeneous research groups with integrated registries that combine
+central institutional (e.g., EHR) with local research data. Special
+Roundtable Presentation to be given at the annual Joint Summit meeting
+of the American Medical Informatics Association.
+
 **Farach, F. J.**, McGettrick, O., Mesa, A., & Rozenblit, L. (2015,
 April). RexMart: Empowering analysts to configure research data marts to
-improve end-user data exploration. Talk to be presented at the annual
+improve end-user data exploration. Poster to be presented at the annual
 Joint Summit meeting of the American Medical Informatics Association.
 
 Tirrell, C., Simeone, J., **Farach, F. J.**, & Rozenblit, L. (2015,
@@ -190,49 +199,124 @@ on an open-source instrument definition standard. Talk to be presented
 at the annual Joint Summit meeting of the American Medical Informatics
 Association.
 
-**Farach, F. J.**, McGettrick, O., Tirrell, C., Evans, C., Mesa, A., & Rozenblit, L. (2014, November). RexMart: An open source tool for exploring and sharing research data without compromising data integrity. Talk presented at the annual symposium of the American Medical Informatics Association.
+**Farach, F. J.**, McGettrick, O., Tirrell, C., Evans, C., Mesa, A., &
+Rozenblit, L. (2014, November). RexMart: An open source tool for
+exploring and sharing research data without compromising data integrity.
+Talk presented at the annual symposium of the American Medical
+Informatics Association.
 
-Tirrell, C., **Farach, F. J.**, Yourd, M., McGettrick, O., Golovko, O., & Rozenblit, L. (2014, November). An open source, integrated data management system for medical registries: A case study using RexDB. Talk presented at the annual symposium of the American Medical Informatics Association.
+Tirrell, C., **Farach, F. J.**, Yourd, M., McGettrick, O., Golovko, O.,
+& Rozenblit, L. (2014, November). An open source, integrated data
+management system for medical registries: A case study using RexDB. Talk
+presented at the annual symposium of the American Medical Informatics
+Association.
 
-Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (2014, April).  RexInstrument: Exploring an open-source standard for configuring clinical research instruments. Talk presented at the annual Join Summit meeting of the American Medical Informatics Association.
+Tirrell, C., Rozenblit, L., & **Farach, F. J.**. (2014, April).
+RexInstrument: Exploring an open-source standard for configuring
+clinical research instruments. Talk presented at the annual Join Summit
+meeting of the American Medical Informatics Association.
 
-Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**, Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M. (2013, July). Advancing replicability and theory through replication recipes and replication packages. Talk presented at the small group meeting Efficient Science: Methodological Controversies in J/DM Research, Bonn, Germany
+Brandt, M. J., IJzerman I., Giner-Sorolla, R., **Farach, F. J.**,
+Grange, J., Geller, J., Spies, J., Van t’ Veer, A., & Perugini, M.
+(2013, July). Advancing replicability and theory through replication
+recipes and replication packages. Talk presented at the small group
+meeting Efficient Science: Methodological Controversies in J/DM
+Research, Bonn, Germany
 
-**Farach, F. J.**, Rozenblit, L., & Hawthorne, J. (2013, May). Improving research efficiency, data quality, and data reuse through integrated data management. In L. Rozenblit (Chair), Improving psychological science through best practices in data management. Talk presented at the annual conference of the Association for Psychological Science.
+**Farach, F. J.**, Rozenblit, L., & Hawthorne, J. (2013, May). Improving
+research efficiency, data quality, and data reuse through integrated
+data management. In L. Rozenblit (Chair), Improving psychological
+science through best practices in data management. Talk presented at the
+annual conference of the Association for Psychological Science.
 
-Hawthorne, J., Voccola, D., Sinanis, N., **Farach, F. J.**, & Rozenblit, L. (2013, May). Integrated data management processes for autism research: Empowering efficient data reuse and sharing across multiple studies, data types, and sites. Poster presented at the annual conference of the International Meeting for Autism Research. 
+Hawthorne, J., Voccola, D., Sinanis, N., **Farach, F. J.**, & Rozenblit,
+L. (2013, May). Integrated data management processes for autism
+research: Empowering efficient data reuse and sharing across multiple
+studies, data types, and sites. Poster presented at the annual
+conference of the International Meeting for Autism Research. 
 
-Rozenblit, L., **Farach, F. J.**, Voccola, D., & Tirrell, C. (2013, May). Architecting an open-source Research Exchange Database (RexDB): How to design a system that supports integrated data management for multidisciplinary autism research. Poster presented at the annual conference of the International Meeting for Autism Research.
+Rozenblit, L., **Farach, F. J.**, Voccola, D., & Tirrell, C. (2013,
+May). Architecting an open-source Research Exchange Database (RexDB):
+How to design a system that supports integrated data management for
+multidisciplinary autism research. Poster presented at the annual
+conference of the International Meeting for Autism Research.
 
-**Farach, F. J.**, McGettrick, O., Golovko, O., Sinanis, N., & Rozenblit, L. (2013, April). HTRAF and HTSQL: New open-source tools enabling the rapid development of data-driven web dashboards for clinical research and staff. Poster presented at the annual conference of the Anxiety and Depression Association of America.
+**Farach, F. J.**, McGettrick, O., Golovko, O., Sinanis, N., &
+Rozenblit, L. (2013, April). HTRAF and HTSQL: New open-source tools
+enabling the rapid development of data-driven web dashboards for
+clinical research and staff. Poster presented at the annual conference
+of the Anxiety and Depression Association of America.
 
-**Farach, F. J.**, Tirrell, C., Hawthorne, J., & Rozenblit, L. (2013, April). Extending an open-source integrated data management system to clinical anxiety disorders research: A preliminary needs assessment. Poster presented at the annual conference of the Anxiety and Depression Association of America.
+**Farach, F. J.**, Tirrell, C., Hawthorne, J., & Rozenblit, L. (2013,
+April). Extending an open-source integrated data management system to
+clinical anxiety disorders research: A preliminary needs assessment.
+Poster presented at the annual conference of the Anxiety and Depression
+Association of America.
 
-**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2011, November). Anxiety sensitivity subscales and PTSD symptom clusters: Cross-sectional relations and treatment effects. In F. J. Farach (Chair), Anxiety sensitivity in posttraumatic stress disorder: Specificity, incremental validity, and treatment. Conference paper and symposium presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Toronto, Canada.
+**Farach, F. J.**, Jun, J. J., Zoellner, L. A., & Feeny, N. C. (2011,
+November). Anxiety sensitivity subscales and PTSD symptom clusters:
+Cross-sectional relations and treatment effects. In F. J. Farach
+(Chair), Anxiety sensitivity in posttraumatic stress disorder:
+Specificity, incremental validity, and treatment. Conference paper and
+symposium presented at the annual meeting of the Association for
+Behavioral and Cognitive Therapy, Toronto, Canada.
 
-**Farach, F. J.** (2009, April). Effects of manipulated mood and individual differences in trait anxiety on the temporal allocation of attention to emotional information. Invited presentation given to the Clinical Psychology area of the Department of Psychology, Yale University, New Haven, CT. 
+**Farach, F. J.** (2009, April). Effects of manipulated mood and
+individual differences in trait anxiety on the temporal allocation of
+attention to emotional information. Invited presentation given to the
+Clinical Psychology area of the Department of Psychology, Yale
+University, New Haven, CT. 
 
-**Farach, F. J.** (2009, February). Effects of manipulated mood on the temporal allocation of attention to emotional information. Invited presentation to the Cognitive Psychology area of the Department of Psychology, Yale University, New Haven, CT. 
+**Farach, F. J.** (2009, February). Effects of manipulated mood on the
+temporal allocation of attention to emotional information. Invited
+presentation to the Cognitive Psychology area of the Department of
+Psychology, Yale University, New Haven, CT. 
 
 **Farach, F. J.**, & Treat, T. A., & Chun, M. M., Jungé, J., & Johnson,
- M. K. (2008, November). Mood manipulation and the temporal allocation
-of attention to emotional information. Poster presented at the annual
+M. K. (2008, November). Mood manipulation and the temporal allocation of
+attention to emotional information. Poster presented at the annual
 meeting of the Association for Behavioral and Cognitive Therapy,
 Orlando, FL. http://dx.doi.org/10.6084/m9.figshare.729039
 
-**Farach, F. J.**, & Mennin, D. S. (2005, November). Pre-9/11 GAD and post-9/11 traumatic response among young adults exposed to the WTC attacks: The mediational role of negative emotional reactivity versus intolerance of uncertainty. Paper presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Washington, DC. 
+**Farach, F. J.**, & Mennin, D. S. (2005, November). Pre-9/11 GAD and
+post-9/11 traumatic response among young adults exposed to the WTC
+attacks: The mediational role of negative emotional reactivity versus
+intolerance of uncertainty. Paper presented at the annual meeting of the
+Association for Behavioral and Cognitive Therapy, Washington, DC. 
 
-Nocera, C. C., Mennin, D. S., **Farach, F. J.**, & Brackett, M. A. (2005, November). Subjective well-being among individuals with GAD: Examining the buffering effects of emotion management ability. Poster presented at the annual meeting of the Association for Behavioral and Cognitive Therapy, Washington, DC. 
+Nocera, C. C., Mennin, D. S., **Farach, F. J.**, & Brackett, M. A.
+(2005, November). Subjective well-being among individuals with GAD:
+Examining the buffering effects of emotion management ability. Poster
+presented at the annual meeting of the Association for Behavioral and
+Cognitive Therapy, Washington, DC. 
 
-Farach, F. J., & Mennin, D. S. (2004, November). Determining the impact of the 9/11 World Trade Center attack: The role of pre-trauma GAD/depression and post-trauma emotion dysregulation. Poster presented at the annual meeting of the Association for Advancement of Behavior Therapy, New Orleans, LA. 
+Farach, F. J., & Mennin, D. S. (2004, November). Determining the impact
+of the 9/11 World Trade Center attack: The role of pre-trauma
+GAD/depression and post-trauma emotion dysregulation. Poster presented
+at the annual meeting of the Association for Advancement of Behavior
+Therapy, New Orleans, LA. 
 
-**Farach, F. J.** (2004, April). Determining the impact of the 9/11 World Trade Center attack: The role of pre-trauma GAD and depression and post-trauma emotion dysregulation. Paper presented at the Clinical Psychology Speaker Series, Department of Psychology, Yale University, New Haven, CT. 
+**Farach, F. J.** (2004, April). Determining the impact of the 9/11
+World Trade Center attack: The role of pre-trauma GAD and depression and
+post-trauma emotion dysregulation. Paper presented at the Clinical
+Psychology Speaker Series, Department of Psychology, Yale University,
+New Haven, CT. 
 
-Otto, M. W., **Farach, F. J.**, & Pollack, M. H. (2003, November). Negative affect, drug use, and emotional exposure: Enhancing distress tolerance in opiate-dependent patients. In M. W. Otto (Chair), Emotional acceptance, distress tolerance, and the conceptualization and treatment of substance use disorders. Symposium conducted at the annual meeting of the Association for Advancement of Behavior Therapy, Boston, MA. 
+Otto, M. W., **Farach, F. J.**, & Pollack, M. H. (2003, November).
+Negative affect, drug use, and emotional exposure: Enhancing distress
+tolerance in opiate-dependent patients. In M. W. Otto (Chair), Emotional
+acceptance, distress tolerance, and the conceptualization and treatment
+of substance use disorders. Symposium conducted at the annual meeting of
+the Association for Advancement of Behavior Therapy, Boston, MA. 
 
-**Farach, F. J.**, & McNally, R. J. (2002, November). Anxiety sensitivity and memory bias for threat in nonclinical subjects. Poster presented at the annual meeting of the Association for Advancement of Behavior Therapy, Reno, NV.
+**Farach, F. J.**, & McNally, R. J. (2002, November). Anxiety
+sensitivity and memory bias for threat in nonclinical subjects. Poster
+presented at the annual meeting of the Association for Advancement of
+Behavior Therapy, Reno, NV.
 
 ## Grant Funding
+
+### Active
 
 R43 MH102900-01 Rozenblit (PI)  
 01/03/14-12/31/15  
@@ -243,11 +327,7 @@ easily integrate various kinds of data from different studies to meet
 the data management needs of anxiety disorders researchers.  
 Role: Co-Investigator
 
-R43 MH099826-02 Rozenblit (PI)		
-12/13/12-11/30/14  
-*A Model Integrated Data Management System for Multi-Disciplinary Autism Research*  
-This project will empower autism investigators to make more effective use of interdisciplinary research data they collect, and to more efficiently exchange data with the scientific community.  
-Role: Project Lead 
+### Past
 
 R01 MH066347-08S1	Zoellner (PI)		
 07/19/12-05/31/13   
@@ -314,8 +394,6 @@ Department of Psychology, Yale University
 ### Memberships in and Service to Professional Associations
 
 - American Medical Informatics Association
-- Association for Behavioral and Cognitive Therapies 
-    - Assistant to Program Chair (2002)
 - National Association for Healthcare Quality
 - Society for a Science of Clinical Psychology
     - Webmaster (2009-2014)
