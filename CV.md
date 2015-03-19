@@ -75,7 +75,7 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 **Farach, F. J.**, Treat, T. A., & Jungé, J. A. (2014). Effects of
 induced and naturalistic mood on the temporal allocation of attention to
 emotional information. *Cognition and Emotion*, *28*, 993-1011.
-http://http://dx.doi.org/10.1080/02699931.2013.866937 
+http://dx.doi.org/10.1080/02699931.2013.866937 
 
 Kerns, C. E., Mennin, D. S., **Farach, F. J.**, & Nocera, C. C. (2014).
 Utilizing an ability-based measure to detect emotion regulation deficits
@@ -90,7 +90,7 @@ Understanding heterogeneity in PTSD: Fear, dysphoria, and distress.
 Brandt, M. J., IJzerman, H., Dijksterhuis, A., **Farach, F. J.**, Geller,
 J., Giner-Sorolla, R., Grange, J., A., Perugini, M., Spies, J. R., &
 Van 't Veer, A. (2013). The replication recipe: What makes for a
-convincing replication?. *Journal of Experimental Social Psychology*, *50*,
+convincing replication? *Journal of Experimental Social Psychology*, *50*,
 217-224.
 
 Open Science Collaboration. (2012). An open, large-scale, collaborative
