@@ -324,7 +324,8 @@ R43 MH102900-01 Rozenblit (PI)
 Disorders*  
 The project involves the development of free (open-source) software that can
 easily integrate various kinds of data from different studies to meet
-the data management needs of anxiety disorders researchers.  
+the data management needs of anxiety disorders researchers involved in
+interventional and registry-related research.
 Role: Co-Investigator
 
 ### Past
