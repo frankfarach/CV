@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2015-03-18
+*Last updated:* 2015-08-05
 
 ## Contact
 
@@ -71,6 +71,9 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 ## Publications
 
 ### Journal Articles
+
+Open Science Collaboration. (2015, in press). Estimating the
+reproducibility of psychological science. *Science*.
 
 **Farach, F. J.**, Treat, T. A., & Jungé, J. A. (2014). Effects of
 induced and naturalistic mood on the temporal allocation of attention to
