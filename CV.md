@@ -1,17 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2015-08-05
-
-## Contact
-
-**Email:** my first name [at] farach [dot] gmail [dot] com
-
-**Snail Mail:**  
-Prometheus Research, LLC  
-55 Church Street, 7th Floor  
-New Haven, CT 06510
-
-**ORCID: 0000-0002-2145-0145**
+*Last updated:* 2015-12-23
 
 ## Education
 
@@ -47,7 +36,7 @@ University (2005)
 
 **Director of Program Management**, Prometheus Research, LLC, New Haven, CT (2015-Present)
 
-**Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-Present)
+**Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-2015)
 
 **Research Scientist**, Center for Anxiety and Traumatic Stress (2012-2013)  
 Department of Psychology, University of Washington, Seattle, WA
@@ -72,8 +61,9 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-Open Science Collaboration. (2015, in press). Estimating the
-reproducibility of psychological science. *Science*.
+Open Science Collaboration. (2015). Estimating the
+reproducibility of psychological science. *Science*, *349*(6251).
+http://www.sciencemag.org/content/349/6251/aac4716
 
 **Farach, F. J.**, Treat, T. A., & Jungé, J. A. (2014). Effects of
 induced and naturalistic mood on the temporal allocation of attention to
@@ -163,6 +153,10 @@ Diagnosis and therapeutic management (pp. 348-380).* Management of antidepressan
 
 ### Newsletter Articles
 
+Brock, R.L., Benoit Allen, K., Stasik-O’Brien, S., Farach, F., & Wilson,
+K. (in press). Addressing the psychology internship crisis: Converging
+perspectives of the psychology community. *The Behavior Therapist.*
+
 Stasik, S., Brock, R. L., **Farach, F. J.**, Benoit, K., & Wilson, K.
 (2013). The predoctoral internship crisis: Results from the revised internship
 survey. *Clinical Science*, *16*, 15-20.
@@ -177,28 +171,40 @@ identifying possible solutions. *Clinical Science*,
 Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. *Data management in clinical research: What we want, what we need, what
 we can afford.* Manuscript submitted for publication.
 
-Brock, R. L., Benoit Allen, K., Stasik, S. M., **Farach, F. J.**, & Wilson, K. *The predoctoral internship crisis: Assessing perspectives of the psychology community.* Manuscript submitted for publication.
+Jerud, A. B., **Farach, F. J.**, Smith, H., Zoellner, L. A., & Feeny, N. C. *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript submitted for publication.
 
 Jun, J. J., **Farach, F. J.**, Zoellner, L. A., & Feeny, N. C. *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript in preparation.
 
-Jerud, A. B., **Farach, F. J.**, Smith, H., Zoellner, L. A., & Feeny, N. C. *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript in preparation.
 
 ## Presentations
+
+**Farach, F. J.**, Heras, Y., Geimer, R., & Rozenblit, L. (2016, March).
+Using Quality Data Model (QDM)-based Quality Reporting Document
+Architecture (QRDA) to collect both Electronic Clinical Quality Measure
+(eCQM) and non-eCQM data for a national registry. Poster to be presented
+at the annual Joint Summit meeting of the American Medical Informatics
+Association.
+
+Voccola, D., Anderson, B. M., Tirrell, C., Simeone, J., *Farach, F.
+J.*, & Rozenblit, L. (2016, March). NIH-sponsored effort to develop an
+open source electronic data dapture instrument converter and library of
+open source research instruments. Poster to be presented at the annual
+Joint Summit meeting of the American Medical Informatics Association.
 
 Rozenblit, L., & **Farach, F. J.** (2015, April). Supporting
 heterogeneous research groups with integrated registries that combine
 central institutional (e.g., EHR) with local research data. Special
-Roundtable Presentation to be given at the annual Joint Summit meeting
+Roundtable Presentation given at the annual Joint Summit meeting
 of the American Medical Informatics Association.
 
 **Farach, F. J.**, McGettrick, O., Mesa, A., & Rozenblit, L. (2015,
 April). RexMart: Empowering analysts to configure research data marts to
-improve end-user data exploration. Poster to be presented at the annual
+improve end-user data exploration. Poster presented at the annual
 Joint Summit meeting of the American Medical Informatics Association.
 
 Tirrell, C., Simeone, J., **Farach, F. J.**, & Rozenblit, L. (2015,
 April). Developing a suite of electronic data capture applications based
-on an open-source instrument definition standard. Talk to be presented
+on an open-source instrument definition standard. Talk presented
 at the annual Joint Summit meeting of the American Medical Informatics
 Association.
 
@@ -333,11 +339,33 @@ Role: Co-Investigator
 
 ### Past
 
+R43 MH099826-02 Rozenblit (PI)
+12/13/12-11/30/14
+*A Model Integrated Data Management System for Multi-Disciplinary Autism
+Research*
+This project will empower autism investigators to make more effective
+use of interdisciplinary research data they collect, and to more
+efficiently exchange data with the scientific community. We will achieve
+this goal by creating free (open-source) software that can easily
+integrate various kinds of data from different studies; no such software
+currently exists. This software will allow researchers to optimize their
+use of scarce research dollars, and will help accelerate progress in
+understanding autism and other mental disorders.
+Role: Project Lead
+
 R01 MH066347-08S1	Zoellner (PI)		
 07/19/12-05/31/13   
 *Optimizing PTSD Treatment (Biomarker Supplement)*  
 This study examines biopsychosocial markers of treatment response to either prolonged exposure (PE) therapy or the combination of PE and sertraline among individuals with posttraumatic stress disorder within a doubly randomized treatment preference design. The supplement also supports the sharing of study results through the database of Genotypes and Phenotypes (dbGaP).  
 Role: Co-Investigator
+
+R34 MH087375 Zoellner (PI)
+09/01/09-08/31/12 
+*Enhancing Extinction Learning in PTSD*
+This study evaluates the tolerability and initial efficacy of methylene
+blue as a metabolic enhancer in facilitating extinction learning
+following imaginal exposure for the treatment of chronic PTSD.
+Role: Study Coordinator
 
 ## Teaching
 
