@@ -61,6 +61,10 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2016).
+Data management in clinical research: Synthesizing stakeholder
+perspectives. *Journal of Biomedical Informatics*, *60*, 286-293.
+
 Open Science Collaboration. (2015). Estimating the
 reproducibility of psychological science. *Science*, *349*(6251).
 http://www.sciencemag.org/content/349/6251/aac4716
@@ -167,9 +171,6 @@ identifying possible solutions. *Clinical Science*,
 *13*, 14-18.
 
 ### Manuscripts & Preprints
-
-Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. *Data management in clinical research: What we want, what we need, what
-we can afford.* Manuscript submitted for publication.
 
 Jerud, A. B., **Farach, F. J.**, Smith, H., Zoellner, L. A., & Feeny, N. C. *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript submitted for publication.
 
