@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2015-12-23
+*Last updated:* 2016-06-20
 
 ## Education
 
@@ -178,10 +178,15 @@ Jun, J. J., **Farach, F. J.**, Zoellner, L. A., & Feeny, N. C. *Changes in anxie
 
 ## Presentations
 
+Anderson, B., Agnew, H., **Farach, F. J.**, & Rozenblit, L. (2016,
+November). Configurable permissioning to address diverse data collection
+needs. Poster to be presented at the annual symposium of the American
+Medical Informatics Association.
+
 **Farach, F. J.**, Heras, Y., Geimer, R., & Rozenblit, L. (2016, March).
 Using Quality Data Model (QDM)-based Quality Reporting Document
 Architecture (QRDA) to collect both Electronic Clinical Quality Measure
-(eCQM) and non-eCQM data for a national registry. Poster to be presented
+(eCQM) and non-eCQM data for a national registry. Poster presented
 at the annual Joint Summit meeting of the American Medical Informatics
 Association.
 
@@ -327,6 +332,10 @@ Behavior Therapy, Reno, NV.
 
 ### Active
 
+n/a
+
+### Past
+
 R43 MH102900-01 Rozenblit (PI)  
 01/03/14-12/31/15  
 *Extending an Open-Source Integrated Data Management Platform to Anxiety
@@ -336,8 +345,6 @@ easily integrate various kinds of data from different studies to meet
 the data management needs of anxiety disorders researchers involved in
 interventional and registry-related research.
 Role: Co-Investigator
-
-### Past
 
 R43 MH099826-02 Rozenblit (PI)
 12/13/12-11/30/14
@@ -426,13 +433,14 @@ Department of Psychology, Yale University
 ### Memberships in and Service to Professional Associations
 
 - American Medical Informatics Association
-- National Association for Healthcare Quality
 - Society for a Science of Clinical Psychology
     - Webmaster (2009-2014)
     - Student Representative (2008-2010)
 
 ### Certifications
 
+- Introduction to Computer Science (Highest Distinction), Udacity.com
+  (2012)
 - ICH Good Clinical Practices, University of Washington (2012)
 - Human Subjects Protection, Univeristy of Washington (2010)
 
