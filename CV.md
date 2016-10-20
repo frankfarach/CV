@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2016-06-20
+*Last updated:* 2016-10-19
 
 ## Education
 
@@ -34,7 +34,9 @@ University (2005)
 
 ## Professional Positions
 
-**Director of Program Management**, Prometheus Research, LLC, New Haven, CT (2015-Present)
+**Healthcare Consultant**, Slalom Consulting, Seattle, WA (2016-Present).
+
+**Director of Program Management**, Prometheus Research, LLC, New Haven, CT (2015-2016)
 
 **Staff Scientist**, Prometheus Research, LLC, New Haven, CT (2012-2015)
 
