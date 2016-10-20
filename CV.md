@@ -61,6 +61,8 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety.*
+
 Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2016).
 Data management in clinical research: Synthesizing stakeholder
 perspectives. *Journal of Biomedical Informatics*, *60*, 286-293.
@@ -172,14 +174,14 @@ identifying possible solutions. *Clinical Science*,
 
 ### Manuscripts & Preprints
 
-Jerud, A. B., **Farach, F. J.**, Smith, H., Zoellner, L. A., & Feeny, N. C. *Prior trauma frequency does not predict between-session habituation of fear in prolonged exposure therapy for PTSD.* Manuscript submitted for publication.
-
-Jun, J. J., **Farach, F. J.**, Zoellner, L. A., & Feeny, N. C. *Changes in anxiety sensitivity associated with prolonged exposure therapy and sertraline for posttraumatic stress disorder.* Manuscript in preparation.
-
+Tenenbaum, J. D., Ranallo, P. A., Bhuvaneshwar, K., **Farach, F. J.**,
+Gollub, R. L., Krueger, B., Perlis, R. H., Stark, D. E., & Rozenblit, L.
+*Mental health informatics: Special challenges and opportunities to
+improve mental health research and care.*
 
 ## Presentations
 
-Anderson, B., Agnew, H., **Farach, F. J.**, & Rozenblit, L. (2016,
+Anderson, B., Tirrell, C., Agnew, H., **Farach, F. J.**, & Rozenblit, L. (2016,
 November). Configurable permissioning to address diverse data collection
 needs. Poster to be presented at the annual symposium of the American
 Medical Informatics Association.
