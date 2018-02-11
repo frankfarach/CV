@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2016-10-19
+*Last updated:* 2018-02-10
 
 ## Education
 
@@ -34,7 +34,7 @@ University (2005)
 
 ## Professional Positions
 
-**Healthcare Consultant**, Slalom Consulting, Seattle, WA (2016-Present).
+**Consultant**, Healthcare Practice, Slalom Consulting, Seattle, WA (2016-Present).
 
 **Director of Program Management**, Prometheus Research, LLC, New Haven, CT (2015-2016)
 
@@ -63,11 +63,11 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety.*
+Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety*, *34*, 671-678. http://dx.doi.org/10.1002/da.22582
 
 Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2016).
 Data management in clinical research: Synthesizing stakeholder
-perspectives. *Journal of Biomedical Informatics*, *60*, 286-293.
+perspectives. *Journal of Biomedical Informatics*, *60*, 286-293. http://dx.doi.org/10.1016/j.jbi.2016.02.014
 
 Open Science Collaboration. (2015). Estimating the
 reproducibility of psychological science. *Science*, *349*(6251).
@@ -185,7 +185,7 @@ improve mental health research and care.*
 
 Anderson, B., Tirrell, C., Agnew, H., **Farach, F. J.**, & Rozenblit, L. (2016,
 November). Configurable permissioning to address diverse data collection
-needs. Poster to be presented at the annual symposium of the American
+needs. Poster to presented at the annual symposium of the American
 Medical Informatics Association.
 
 **Farach, F. J.**, Heras, Y., Geimer, R., & Rozenblit, L. (2016, March).
