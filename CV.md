@@ -63,6 +63,9 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
+Zoellner, L. A., Telch, M., Foa, E. B., **Farach, F. J.**, McLean, C.
+P., Gallop, R., Bluett, E. J., Cobb, A., & Gonzalez-Lima, F. (2017). Enhancing extinction learning in posttraumatic stress disorder with brief daily imaginal exposure and methylene blue: A randomized controlled trial. *The Journal of Clinical Psychiatry*, *78*, e782-e789. https://doi.org/10.4088/JCP.16m10936
+
 Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. (2016). Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety*, *34*, 671-678. http://dx.doi.org/10.1002/da.22582
 
 Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2016).
