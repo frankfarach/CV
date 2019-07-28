@@ -164,8 +164,8 @@ Diagnosis and therapeutic management (pp. 348-380).* Management of antidepressan
 
 ### Newsletter Articles
 
-Brock, R.L., Benoit Allen, K., Stasik-O’Brien, S., Farach, F., & Wilson,
-K. (in press). Addressing the psychology internship crisis: Converging
+Brock, R. L., Benoit Allen, K., Stasik-O’Brien, S. M., **Farach, F. J.**, & Wilson,
+K. G. (2015, December). Addressing the psychology internship crisis: Converging
 perspectives of the psychology community. *The Behavior Therapist.*
 
 Stasik, S., Brock, R. L., **Farach, F. J.**, Benoit, K., & Wilson, K.
