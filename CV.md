@@ -1,6 +1,6 @@
 #  Frank J. Farach - CV
 
-*Last updated:* 2018-02-10
+*Last updated:* 2019-07-27
 
 ## Education
 
@@ -63,7 +63,7 @@ Department of Psychiatry, Massachusetts General Hospital, Boston, MA
 
 ### Journal Articles
 
-Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety*, *34*, 671-678. http://dx.doi.org/10.1002/da.22582
+Jerud, A. B., **Farach, F. J.**, Bedard-Gilligan, M., Smith, H., Zoellner, L. A., & Feeny, N. C. (2016). Repeated trauma exposure does not impair distress reduction during imaginal exposure for posttraumtic stress distorder. *Depression and Anxiety*, *34*, 671-678. http://dx.doi.org/10.1002/da.22582
 
 Johnson, S. B., **Farach, F. J.**, Pelphrey, K., & Rozenblit, L. (2016).
 Data management in clinical research: Synthesizing stakeholder
@@ -183,9 +183,16 @@ improve mental health research and care.*
 
 ## Presentations
 
+Ranade, D., & **Farach, F. J.** (2018, October). Pulse: Delivering on
+the promise of data-driven decision making. Talk presented at the annual
+conference of the Healthcare Data and Analytics Association.
+
+**Farach, F. J.** (2016, November). Partnering with providers, payers
+and innovative networks. Panelist at Seattle Startup Week. 
+
 Anderson, B., Tirrell, C., Agnew, H., **Farach, F. J.**, & Rozenblit, L. (2016,
 November). Configurable permissioning to address diverse data collection
-needs. Poster to presented at the annual symposium of the American
+needs. Poster presented at the annual symposium of the American
 Medical Informatics Association.
 
 **Farach, F. J.**, Heras, Y., Geimer, R., & Rozenblit, L. (2016, March).
